@@ -8,3 +8,5 @@
 "# sirinapa-blog" 
 "# sirinapa-blog" 
 "# sirinapa-blog" 
+"# say_template" 
+"# say_template" 
