@@ -82,8 +82,8 @@ DATABASES = {
         #'NAME': BASE_DIR / 'db.sqlite3',
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'webapp',
-        'USER': 'django',
-        'PASSWORD': '29122539',
+        'USER': 'djtraning',
+        'PASSWORD': '123459876',
         'HOST': 'localhost',
         'PORT': '',
         
